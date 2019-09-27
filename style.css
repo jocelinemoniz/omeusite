@@ -1,0 +1,29 @@
+/* style.css */
+body{
+  background: rgb(230,230,230);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+  background-image: url("images/heart.png");
+  background-color: pink;
+  text-align: center;
+}
+h1{
+  font-family: helvetica;
+  color: red;
+  font-weight: lighter;
+  font-size: 30px;
+}
+h2 {
+  font-family: helvetica;
+  color: red;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: purple;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
